@@ -8,7 +8,11 @@ Come to [My Dev Blog](http://bn-tw2020.github.io/) : )
 
 There is almost everything about me. 😄
 
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bn-tw2020&show_icons=true&theme=dracula">
+  
+<a href="https://github.com/bn-tw2020">
+  <img src="https://camo.githubusercontent.com/f42a40e04edabc0b088eb08a6939cb97e076427e63e3042b2952823f60c4ab4f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d626e2d7477323032302673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="Github Profile" data-canonical-src="https://github-readme-stats.vercel.app/api?username=bn-tw2020&count_private=true&hide=contribs,prs&show_icons=true&theme=dracula">  
+</a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bn-tw2020&layout=compact&theme=buefy" alt="languages" height="173">
 </p>
