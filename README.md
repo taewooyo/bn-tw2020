@@ -18,7 +18,5 @@ There is almost everything about me. 😄
 </p>
                                                                                                                                            
 <a href="href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=bn-tw2020&amp;theme=chalk&amp;row=1&amp;column=7" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/b7e97d670fe5f65f915c31ac39ecb7f69ea0833db38a83bd1ac945932ec03615/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d626e2d747732303230267468656d653d6368616c6b26726f773d3126636f6c756d6e3d37" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=bn-tw2020&amp;theme=chalk&amp;row=1&amp;column=7" style="max-width:100%;">
 </a>
-
-![](https://github-profile-trophy.vercel.app/?username=bn-tw2020&amp;theme=chalk&amp;row=1&amp;column=7)
