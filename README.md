@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 
-I’m Student
+I'm in the process of growing as a developer.  
+
+Now, I'm currently studying Kotlin, Object Oriented Programming, Android.
 
 Come to [My Dev Blog](http://bn-tw2020.github.io/) : )
 
