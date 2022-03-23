@@ -15,7 +15,6 @@ There is almost everything about me. 😄
 
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=bn-tw2020&show_icons=true)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bn-tw2020&langs_count=10&layout=compact&hide=Visual%20Basic)](https://github.com/anuraghazra/github-readme-stats)
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ap4o)](https://solved.ac/ap4o)
 <a href="https://opgc.me/#/users/bn-tw2020" target="_blank"><img src="https://api.opgc.me/githubs/users/bn-tw2020/tag/?border=normal" /></a>
