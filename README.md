@@ -16,8 +16,8 @@ There is almost everything about me. 😄
 
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=bn-tw2020&show_icons=true)](#)
 
-<!-- [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ap4o)](https://solved.ac/ap4o) -->
-<a href="https://opgc.me/#/users/bn-tw2020" target="_blank"><img src="https://api.opgc.me/githubs/users/bn-tw2020/tag/?border=normal" /></a>
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ap4o)](https://solved.ac/ap4o)
+<!-- <a href="https://opgc.me/#/users/bn-tw2020" target="_blank"><img src="https://api.opgc.me/githubs/users/bn-tw2020/tag/?border=normal" /></a> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bn-tw2020&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) 
 [![status](https://github-readme-streak-stats.herokuapp.com/?user=bn-tw2020)](#)
