@@ -1,14 +1,14 @@
 <p> <img src="https://komarev.com/ghpvc/?username=bn-tw2020" alt="profileView" /> </p>
 
-### Hi, there 👋
+### 인사말 👋
 
-I'm in the process of growing as a developer.  
+끊임없이 도전하고 이야기하는 것을 좋아하는 개발자가 되고 싶습니다.
 
-Now, I'm currently studying Kotlin, Object Oriented Programming, Android.
+지금 코틀린 및 안드로이드를 학습해나가고 있습니다.
 
 Come to [My Dev Blog](http://bn-tw2020.github.io/) : )
 
-There is almost everything about me. 😄
+개발 기록을 남기는 것을 노력하고 있습니다. 😄
                                                                                                                                            
 
 ## Badge
