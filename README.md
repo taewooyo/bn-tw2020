@@ -6,7 +6,7 @@
 
 코틀린 및 안드로이드를 학습해나가고 있습니다. 😄
 
-Come to [My Dev Blog](http://bn-tw2020.github.io/)입니다. : ) 
+Come to [My Dev Blog](http://bn-tw2020.github.io/)입니다. : )  
 <!-- 에서 [Brunch](https://brunch.co.kr/@taewooda)로 이전했습니다.-->
                                        
 ### Career
