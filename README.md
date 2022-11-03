@@ -9,9 +9,9 @@
 Come to [My Dev Blog](http://bn-tw2020.github.io/)입니다. : )  
 <!-- 에서 [Brunch](https://brunch.co.kr/@taewooda)로 이전했습니다.-->
                                        
-### Career
+<!-- ### Career
 
-'22.07.05 ~ '22.08.30 [우아한형제들 교육형 인턴(우아한테크캠프)]
+'22.07.05 ~ '22.08.30 [우아한형제들 교육형 인턴(우아한테크캠프)] -->
 
 ## Badge
 
