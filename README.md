@@ -21,4 +21,4 @@ Come to [My Dev Blog](http://bn-tw2020.github.io/)입니다. : )
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ap4o)](https://solved.ac/ap4o)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bn-tw2020&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy) 
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=bn-tw2020)](#)
+<!-- [![status](https://github-readme-streak-stats.herokuapp.com/?user=bn-tw2020)](#) -->
